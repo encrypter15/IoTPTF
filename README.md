@@ -1,4 +1,5 @@
 # IoTPTF - IoT Penetration Testing Framework
+![IoTPTF Logo](logo.png)
 **Author:** encrypter15  
 **Email:** encrypter15@gmail.com  
 **License:** MIT  
