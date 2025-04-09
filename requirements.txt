@@ -1,0 +1,7 @@
+pyserial==3.5
+scapy==2.5.0
+pybluez==0.23
+requests==2.31.0
+adversarial-robustness-toolbox==1.17.0  # For AI vulnerability testing
+paho-mqtt==2.1.0  # For MQTT testing
+coapthon3==1.0.2  # For CoAP testing
